@@ -1,0 +1,79 @@
+"Method, Nodes, Cyclomatic Complexity
+"
+"net/sf/freecol/tools/FSGConverter.<init>, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 482""
+""Entry""->""NEW3""
+""Entry""->""DUP4""
+""Entry""->""INVOKESPECIAL(<init>)5""
+""Entry""->""PUTSTATIC6""
+""Entry""->""RETURN7""
+""Entry""->""Exit""
+}.{null""Entry"",""LABEL1"",""LINENUMBER 482"",""NEW3"",""DUP4"",""INVOKESPECIAL(<init>)5"",""PUTSTATIC6"",""RETURN7"",""Exit"",} . 0.1111111111111111 . 0.0 . 9, 1
+"
+"net/sf/freecol/tools/FSGConverter.getFSGConverter, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 482""
+""Entry""->""NEW3""
+""Entry""->""DUP4""
+""Entry""->""INVOKESPECIAL(<init>)5""
+""Entry""->""PUTSTATIC6""
+""Entry""->""RETURN7""
+""Entry""->""Exit""
+}.{null""Entry"",""LABEL1"",""LINENUMBER 482"",""NEW3"",""DUP4"",""INVOKESPECIAL(<init>)5"",""PUTSTATIC6"",""RETURN7"",""Exit"",} . 0.1111111111111111 . 0.0 . 35, 3
+"
+"net/sf/freecol/tools/FSGConverter.convertToXML, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 482""
+""Entry""->""NEW3""
+""Entry""->""DUP4""
+""Entry""->""INVOKESPECIAL(<init>)5""
+""Entry""->""PUTSTATIC6""
+""Entry""->""RETURN7""
+""Entry""->""Exit""
+}.{null""Entry"",""LABEL1"",""LINENUMBER 482"",""NEW3"",""DUP4"",""INVOKESPECIAL(<init>)5"",""PUTSTATIC6"",""RETURN7"",""Exit"",} . 0.1111111111111111 . 0.0 . 85, 6
+"
+"net/sf/freecol/tools/FSGConverter.convertToXML, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 482""
+""Entry""->""NEW3""
+""Entry""->""DUP4""
+""Entry""->""INVOKESPECIAL(<init>)5""
+""Entry""->""PUTSTATIC6""
+""Entry""->""RETURN7""
+""Entry""->""Exit""
+}.{null""Entry"",""LABEL1"",""LINENUMBER 482"",""NEW3"",""DUP4"",""INVOKESPECIAL(<init>)5"",""PUTSTATIC6"",""RETURN7"",""Exit"",} . 0.1111111111111111 . 0.0 . 278, 17
+"
+"net/sf/freecol/tools/FSGConverter.printUsage, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 482""
+""Entry""->""NEW3""
+""Entry""->""DUP4""
+""Entry""->""INVOKESPECIAL(<init>)5""
+""Entry""->""PUTSTATIC6""
+""Entry""->""RETURN7""
+""Entry""->""Exit""
+}.{null""Entry"",""LABEL1"",""LINENUMBER 482"",""NEW3"",""DUP4"",""INVOKESPECIAL(<init>)5"",""PUTSTATIC6"",""RETURN7"",""Exit"",} . 0.1111111111111111 . 0.0 . 37, 1
+"
+"net/sf/freecol/tools/FSGConverter.main, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 482""
+""Entry""->""NEW3""
+""Entry""->""DUP4""
+""Entry""->""INVOKESPECIAL(<init>)5""
+""Entry""->""PUTSTATIC6""
+""Entry""->""RETURN7""
+""Entry""->""Exit""
+}.{null""Entry"",""LABEL1"",""LINENUMBER 482"",""NEW3"",""DUP4"",""INVOKESPECIAL(<init>)5"",""PUTSTATIC6"",""RETURN7"",""Exit"",} . 0.1111111111111111 . 0.0 . 128, 7
+"
+"net/sf/freecol/tools/FSGConverter.<clinit>, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 482""
+""Entry""->""NEW3""
+""Entry""->""DUP4""
+""Entry""->""INVOKESPECIAL(<init>)5""
+""Entry""->""PUTSTATIC6""
+""Entry""->""RETURN7""
+""Entry""->""Exit""
+}.{null""Entry"",""LABEL1"",""LINENUMBER 482"",""NEW3"",""DUP4"",""INVOKESPECIAL(<init>)5"",""PUTSTATIC6"",""RETURN7"",""Exit"",} . 0.1111111111111111 . 0.0 . 9, 1
+"

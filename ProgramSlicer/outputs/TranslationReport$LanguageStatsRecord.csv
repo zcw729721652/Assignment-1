@@ -1,0 +1,20 @@
+"Method, Nodes, Cyclomatic Complexity,Q1,Q2,Q3,Q4
+"
+"net/sf/freecol/tools/TranslationReport$LanguageStatsRecord.<init>, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 392""
+""Entry""->""ALOAD3""
+""Entry""->""INVOKESPECIAL(<init>)4""
+""Entry""->""RETURN5""
+""Entry""->""Exit""
+}.{{null""Entry"",""LABEL1"",""LINENUMBER 392"",""ALOAD3"",""INVOKESPECIAL(<init>)4"",""LABEL5"",""LINENUMBER 406"",""ALOAD7"",""LDC8"",""PUTFIELD9"",""LABEL10"",""LINENUMBER 4111"",""ALOAD12"",""ICONST_013"",""PUTFIELD14"",""LABEL15"",""LINENUMBER 4216"",""ALOAD17"",""ICONST_018"",""PUTFIELD19"",""LABEL20"",""LINENUMBER 4321"",""ALOAD22"",""ICONST_023"",""PUTFIELD24"",""RETURN25"",""Exit"",}""Entry"",""LABEL1"",""LINENUMBER 392"",""ALOAD3"",""INVOKESPECIAL(<init>)4"",""RETURN5"",""Exit"",} . 0.16666666666666666 . 1.0 . 27, 1
+"
+"net/sf/freecol/tools/TranslationReport$LanguageStatsRecord.<init>, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 392""
+""Entry""->""ALOAD3""
+""Entry""->""INVOKESPECIAL(<init>)4""
+""Entry""->""RETURN5""
+""Entry""->""Exit""
+}.{{null""Entry"",""LABEL1"",""LINENUMBER 392"",""ALOAD3"",""INVOKESPECIAL(<init>)4"",""LABEL5"",""LINENUMBER 406"",""ALOAD7"",""LDC8"",""PUTFIELD9"",""LABEL10"",""LINENUMBER 4111"",""ALOAD12"",""ICONST_013"",""PUTFIELD14"",""LABEL15"",""LINENUMBER 4216"",""ALOAD17"",""ICONST_018"",""PUTFIELD19"",""LABEL20"",""LINENUMBER 4321"",""ALOAD22"",""ICONST_023"",""PUTFIELD24"",""RETURN25"",""Exit"",}""Entry"",""LABEL1"",""LINENUMBER 392"",""ALOAD3"",""INVOKESPECIAL(<init>)4"",""RETURN5"",""Exit"",} . 0.16666666666666666 . 1.0 . 7, 1
+"

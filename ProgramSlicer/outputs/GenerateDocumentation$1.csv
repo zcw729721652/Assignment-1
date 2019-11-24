@@ -1,0 +1,22 @@
+"Method, Nodes, Cyclomatic Complexity
+"
+"net/sf/freecol/tools/GenerateDocumentation$1.<init>, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 652""
+""Entry""->""ALOAD3""
+""Entry""->""LDC4""
+""Entry""->""INVOKEVIRTUAL(matches)5""
+""Entry""->""IRETURN6""
+""Entry""->""Exit""
+}.{{null""Entry"",""LABEL1"",""LINENUMBER 622"",""ALOAD3"",""INVOKESPECIAL(<init>)4"",""RETURN5"",""Exit"",}""Entry"",""LABEL1"",""LINENUMBER 652"",""ALOAD3"",""LDC4"",""INVOKEVIRTUAL(matches)5"",""IRETURN6"",""Exit"",} . 0.14285714285714285 . 1.0 . 7, 1
+"
+"net/sf/freecol/tools/GenerateDocumentation$1.accept, digraph cfg{
+""Entry""->""LABEL1""
+""Entry""->""LINENUMBER 652""
+""Entry""->""ALOAD3""
+""Entry""->""LDC4""
+""Entry""->""INVOKEVIRTUAL(matches)5""
+""Entry""->""IRETURN6""
+""Entry""->""Exit""
+}.{{null""Entry"",""LABEL1"",""LINENUMBER 622"",""ALOAD3"",""INVOKESPECIAL(<init>)4"",""RETURN5"",""Exit"",}""Entry"",""LABEL1"",""LINENUMBER 652"",""ALOAD3"",""LDC4"",""INVOKEVIRTUAL(matches)5"",""IRETURN6"",""Exit"",} . 0.14285714285714285 . 1.0 . 8, 1
+"
